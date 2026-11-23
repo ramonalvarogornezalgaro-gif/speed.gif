@@ -1,1 +1,1 @@
-![speed lol.gif](assets/animacion.gif)
+![Mi animación](speed lol.gif)
